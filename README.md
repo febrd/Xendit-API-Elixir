@@ -1,4 +1,4 @@
-# Xendit-API-Elixir
+# Xendit-API-Elixir V1.15.2
 
 <H2>GET BALANCE</H2>
 REQUIRED HTTPOISON
